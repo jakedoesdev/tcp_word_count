@@ -1,7 +1,3 @@
-Author: Jacob Everett (jae0204)
-Class:  CSCE3530.002
-Instructor: Dr. Robin Pottathuparambil
-
 Make file instructions
 
 To compile:  make
