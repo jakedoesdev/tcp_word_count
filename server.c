@@ -1,12 +1,8 @@
 /* 
-Author: Jacob Everett (jae0204)
-Class:  CSCE3530.002
+Author: Jacob Everett
 Description: TCP server that processes strings from a client. Counts words/letters/vowels, capitalizes the first letter of each word, and writes this data to the client. Exits on "quit" command.
 
 Usage: ./wcserver <portnumber>
-
-Current behavior:  Server gets first input string from user, capitalizes and returns output string to client,
-then hangs (I think read is stuck blocking on the client?)
 */
 
 
