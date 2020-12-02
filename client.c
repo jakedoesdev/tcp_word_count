@@ -1,6 +1,5 @@
 /* 
 Author: Jacob Everett (jae0204)
-Class:  CSCE3530.002
 Description:  TCP client that sends strings to a server for processing.
 */
 
